@@ -1,4 +1,4 @@
-## AWS Machine Learning Accelerated Tabular Data Class
+## Machine Learning University Accelerated Tabular Data Class
 
 This content is based on the Machine Learning University (MLU) Accelerated Tabular Data class. Our mission is to make Machine Learning accessible to everyone. We believe Machine Learning will be a tool for success for many people in their careers. We teach Machine Learning courses on different topics. This class is designed to help you get started with Tabular Data problems, learn widely used techniques and apply them on real-world problems.
 
