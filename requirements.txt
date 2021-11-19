@@ -9,3 +9,4 @@ numpy==1.19.5
 autogluon==0.3.2b20211110
 mxnet==1.8.0.post0
 seaborn==0.11.2
+ipykernel==5.5.6
