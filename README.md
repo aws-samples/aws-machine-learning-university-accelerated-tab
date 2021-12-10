@@ -18,7 +18,7 @@ There are three lectures and one final project for this class.
 | Exploratory Data Analysis | Hyperparameter Tuning | Neural Networks |
 | K Nearest Neighbors (KNN) | AWS AI/ML Services | AutoML |
 
-__Final Project:__ Practice working with a "real-world" tabular dataset for the final project. Final project dataset is in the [data/final_project folder](https://github.com/aws-samples/aws-machine-learning-university-accelerated-tab/tree/master/data/final_project). For more details on the final project, check out [this notebook](https://github.com/aws-samples/aws-machine-learning-university-accelerated-tab/blob/master/notebooks/MLA-TAB-Lecture1-Final-Project.ipynb).
+__Final Project:__ Practice working with a "real-world" tabular dataset for the final project. Final project dataset is in the [data/final_project folder](https://github.com/aws-samples/aws-machine-learning-university-accelerated-tab/tree/master/data/final_project). For more details on the final project, check out [this notebook](https://github.com/aws-samples/aws-machine-learning-university-accelerated-tab/blob/master/notebooks/MLA-TAB-DAY1-FINAL.ipynb).
 
 ## Contribute
 If you would like to contribute to the project, see [CONTRIBUTING](CONTRIBUTING.md) for more information.
