@@ -44,10 +44,10 @@ Lecture 3
 **Final Project:** Practice working with a "real-world" tabular dataset for the final project. Final project dataset is in the [data/final_project folder](https://github.com/aws-samples/aws-machine-learning-university-accelerated-tab/tree/master/data/final_project). For more details on the final project, check out [this notebook](https://github.com/aws-samples/aws-machine-learning-university-accelerated-tab/blob/master/notebooks/MLA-TAB-DAY1-FINAL.ipynb).
 
 ## Interactives/Visuals
-Interested in visual, interactive explanations of core machine learning concepts? Check out our [MLU-Explain articles](https://mlu-explain.github.io/) to learn at your own pace!
+Interested in visual, interactive explanations of core machine learning concepts? Check out our [MLU-Explain articles](https://mlu-explain.github.io/) to learn at your own pace! 
 
 ## Contribute
 If you would like to contribute to the project, see [CONTRIBUTING](CONTRIBUTING.md) for more information.
 
 ## License
-The license for this repository depends on the section. Data set for the course is being provided to you by permission of Amazon and is subject to the terms of the [Amazon License and Access](https://www.amazon.com/gp/help/customer/display.html?nodeId=201909000). You are expressly prohibited from copying, modifying, selling, exporting or using this data set in any way other than for the purpose of completing this course. The lecture slides are released under the CC-BY-SA-4.0 License. The code examples are released under the MIT-0 License. See each section's LICENSE file for details.
+The license for this repository depends on the section.  Data set for the course is being provided to you by permission of Amazon and is subject to the terms of the [Amazon License and Access](https://www.amazon.com/gp/help/customer/display.html?nodeId=201909000). You are expressly prohibited from copying, modifying, selling, exporting or using this data set in any way other than for the purpose of completing this course. The lecture slides are released under the CC-BY-SA-4.0 License.  The code examples are released under the MIT-0 License. See each section's LICENSE file for details.
