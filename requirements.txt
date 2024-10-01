@@ -1,5 +1,5 @@
 pip==23.3
-setuptools==65.5.1
+setuptools==70.0.0
 wheel==0.38.1
 pandas==1.5.2
 scikit-learn==1.1.3
