@@ -37,7 +37,7 @@ Lecture 3
 | Optimization | - |
 | Regression Models | - |
 | Boosting | - |
-| Neural Networks |NN [![Open In Studio Lab](https://studiolab.sagemaker.aws/studiolab.svg)](https://studiolab.sagemaker.aws/import/github/aws-samples/aws-machine-learning-university-accelerated-tab/blob/master/notebooks/MLA-TAB-DAY3-NN.ipynb) <br> MXNet [![Open In Studio Lab](https://studiolab.sagemaker.aws/studiolab.svg)](https://studiolab.sagemaker.aws/import/github/aws-samples/aws-machine-learning-university-accelerated-tab/blob/master/notebooks/MLA-TAB-DAY3-MXNET.ipynb)|
+| Neural Networks |NN [![Open In Studio Lab](https://studiolab.sagemaker.aws/studiolab.svg)](https://studiolab.sagemaker.aws/import/github/aws-samples/aws-machine-learning-university-accelerated-tab/blob/master/notebooks/MLA-TAB-DAY3-NN.ipynb) |
 | AutoML |[![Open In Studio Lab](https://studiolab.sagemaker.aws/studiolab.svg)](https://studiolab.sagemaker.aws/import/github/aws-samples/aws-machine-learning-university-accelerated-tab/blob/master/notebooks/MLA-TAB-DAY3-AUTOML.ipynb) |
 
 
