@@ -15,20 +15,20 @@ Lecture 1
 | :---: | ---: |
 | Introduction to ML | - |
 | Sample ML Model | - |
-| Model Evaluation | [![Open In Studio Lab](https://studiolab.sagemaker.aws/studiolab.svg)](https://studiolab.sagemaker.aws/import/github/aws-samples/aws-machine-learning-university-accelerated-tab/blob/master/notebooks/MLA-TAB-DAY1-MODEL.ipynb) |
-| Exploratory Data Analysis | [![Open In Studio Lab](https://studiolab.sagemaker.aws/studiolab.svg)](https://studiolab.sagemaker.aws/import/github/aws-samples/aws-machine-learning-university-accelerated-tab/blob/master/notebooks/MLA-TAB-DAY1-EDA.ipynb) |
-| K Nearest Neighbors (KNN) | [![Open In Studio Lab](https://studiolab.sagemaker.aws/studiolab.svg)](https://studiolab.sagemaker.aws/import/github/aws-samples/aws-machine-learning-university-accelerated-tab/blob/master/notebooks/MLA-TAB-DAY1-KNN.ipynb) |
-| Final Project | [![Open In Studio Lab](https://studiolab.sagemaker.aws/studiolab.svg)](https://studiolab.sagemaker.aws/import/github/aws-samples/aws-machine-learning-university-accelerated-tab/blob/master/notebooks/MLA-TAB-DAY1-FINAL.ipynb) |
+| Model Evaluation | [![Open In Studio Lab](https://studiolab.sagemaker.aws/studiolab.svg)](https://studiolab.sagemaker.aws/import/github/aws-samples/aws-machine-learning-university-accelerated-tab/blob/main/notebooks/MLA-TAB-DAY1-MODEL.ipynb) |
+| Exploratory Data Analysis | [![Open In Studio Lab](https://studiolab.sagemaker.aws/studiolab.svg)](https://studiolab.sagemaker.aws/import/github/aws-samples/aws-machine-learning-university-accelerated-tab/blob/main/notebooks/MLA-TAB-DAY1-EDA.ipynb) |
+| K Nearest Neighbors (KNN) | [![Open In Studio Lab](https://studiolab.sagemaker.aws/studiolab.svg)](https://studiolab.sagemaker.aws/import/github/aws-samples/aws-machine-learning-university-accelerated-tab/blob/main/notebooks/MLA-TAB-DAY1-KNN.ipynb) |
+| Final Project | [![Open In Studio Lab](https://studiolab.sagemaker.aws/studiolab.svg)](https://studiolab.sagemaker.aws/import/github/aws-samples/aws-machine-learning-university-accelerated-tab/blob/main/notebooks/MLA-TAB-DAY1-FINAL.ipynb) |
 
 Lecture 2
 
 | title | studio lab |
 | :---: | ---: |
-|Feature Engineering | [![Open In Studio Lab](https://studiolab.sagemaker.aws/studiolab.svg)](https://studiolab.sagemaker.aws/import/github/aws-samples/aws-machine-learning-university-accelerated-tab/blob/master/notebooks/MLA-TAB-DAY2-TEXT-PROCESS.ipynb) |
-| Tree-based Models | [![Open In Studio Lab](https://studiolab.sagemaker.aws/studiolab.svg)](https://studiolab.sagemaker.aws/import/github/aws-samples/aws-machine-learning-university-accelerated-tab/blob/master/notebooks/MLA-TAB-DAY2-TREE.ipynb) |
+|Feature Engineering | [![Open In Studio Lab](https://studiolab.sagemaker.aws/studiolab.svg)](https://studiolab.sagemaker.aws/import/github/aws-samples/aws-machine-learning-university-accelerated-tab/blob/main/notebooks/MLA-TAB-DAY2-TEXT-PROCESS.ipynb) |
+| Tree-based Models | [![Open In Studio Lab](https://studiolab.sagemaker.aws/studiolab.svg)](https://studiolab.sagemaker.aws/import/github/aws-samples/aws-machine-learning-university-accelerated-tab/blob/main/notebooks/MLA-TAB-DAY2-TREE.ipynb) |
 | Bagging | - |
 | Hyperparameter Tuning | - |
-| AWS AI/ML Services |[![Open In Studio Lab](https://studiolab.sagemaker.aws/studiolab.svg)](https://studiolab.sagemaker.aws/import/github/aws-samples/aws-machine-learning-university-accelerated-tab/blob/master/notebooks/MLA-TAB-DAY2-SAGEMAKER.ipynb)  |
+| AWS AI/ML Services |[![Open In Studio Lab](https://studiolab.sagemaker.aws/studiolab.svg)](https://studiolab.sagemaker.aws/import/github/aws-samples/aws-machine-learning-university-accelerated-tab/blob/main/notebooks/MLA-TAB-DAY2-SAGEMAKER.ipynb)  |
 
 Lecture 3 
 
@@ -37,11 +37,11 @@ Lecture 3
 | Optimization | - |
 | Regression Models | - |
 | Boosting | - |
-| Neural Networks |NN [![Open In Studio Lab](https://studiolab.sagemaker.aws/studiolab.svg)](https://studiolab.sagemaker.aws/import/github/aws-samples/aws-machine-learning-university-accelerated-tab/blob/master/notebooks/MLA-TAB-DAY3-NN.ipynb) |
-| AutoML |[![Open In Studio Lab](https://studiolab.sagemaker.aws/studiolab.svg)](https://studiolab.sagemaker.aws/import/github/aws-samples/aws-machine-learning-university-accelerated-tab/blob/master/notebooks/MLA-TAB-DAY3-AUTOML.ipynb) |
+| Neural Networks |NN [![Open In Studio Lab](https://studiolab.sagemaker.aws/studiolab.svg)](https://studiolab.sagemaker.aws/import/github/aws-samples/aws-machine-learning-university-accelerated-tab/blob/main/notebooks/MLA-TAB-DAY3-NN.ipynb) |
+| AutoML |[![Open In Studio Lab](https://studiolab.sagemaker.aws/studiolab.svg)](https://studiolab.sagemaker.aws/import/github/aws-samples/aws-machine-learning-university-accelerated-tab/blob/main/notebooks/MLA-TAB-DAY3-AUTOML.ipynb) |
 
 
-**Final Project:** Practice working with a "real-world" tabular dataset for the final project. Final project dataset is in the [data/final_project folder](https://github.com/aws-samples/aws-machine-learning-university-accelerated-tab/tree/master/data/final_project). For more details on the final project, check out [this notebook](https://github.com/aws-samples/aws-machine-learning-university-accelerated-tab/blob/master/notebooks/MLA-TAB-DAY1-FINAL.ipynb).
+**Final Project:** Practice working with a "real-world" tabular dataset for the final project. Final project dataset is in the [data/final_project folder](https://github.com/aws-samples/aws-machine-learning-university-accelerated-tab/tree/main/data/final_project). For more details on the final project, check out [this notebook](https://github.com/aws-samples/aws-machine-learning-university-accelerated-tab/blob/main/notebooks/MLA-TAB-DAY1-FINAL.ipynb).
 
 ## Interactives/Visuals
 Interested in visual, interactive explanations of core machine learning concepts? Check out our [MLU-Explain articles](https://mlu-explain.github.io/) to learn at your own pace! 
